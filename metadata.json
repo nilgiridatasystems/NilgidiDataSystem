@@ -1,0 +1,8 @@
+{
+  "name": "Nilgiri Data Systems",
+  "description": "Company website for NILGIRI DATA SYSTEMS PVT. LTD. - Enterprise IT Infrastructure, Digital Transformation, Managed Services, and Cybersecurity Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
